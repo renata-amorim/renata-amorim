@@ -4,7 +4,7 @@ Oiê 👩🏾‍💻
 - 🌱 Aprendendo React.
 - ⚡ Desenvolvendo projetos front-end.
 - ⬆️ Interessada em Acessibilidade, Responsividade, Testes.
-- 💻 LinkedIn:https://www.linkedin.com/in/renata-de-jesus-silva-amorim/
+- 💻 LinkedIn: https://www.linkedin.com/in/renata-de-jesus-silva-amorim/
 
 ##
 <div align="center">
